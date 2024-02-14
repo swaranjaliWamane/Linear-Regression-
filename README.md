@@ -1,1 +1,1 @@
-# loan-approval-project
+# IRIS dataset visualisation
